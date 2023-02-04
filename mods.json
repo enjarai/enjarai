@@ -1,23 +1,37 @@
 {
   "6FtRfnLg": {
-    "name": "Do a Barrel Roll"
+    "name": "Do a Barrel Roll",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll",
+    "github_url": "https://github.com/enjarai/do-a-barrel-roll"
   },
   "FGkGRWtl": {
-    "name": "Glowsquids Begone!"
+    "name": "Glowsquids Begone!",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/glowsquids-begone",
+    "github_url": "https://github.com/enjarai/glowsquids-begone"
   },
   "RCjGlCDj": {
-    "name": "Mod-erate Loading Screen"
+    "name": "Mod-erate Loading Screen",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/mod-erate-loading-screen",
+    "github_url": "https://github.com/enjarai/moderate-loading-screen"
   },
   "i2u9r3li": {
-    "name": "Omni-Hopper"
+    "name": "Omni-Hopper",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/omni-hopper",
+    "github_url": "https://github.com/enjarai/OmniHopper"
   },
   "CcL3MXyI": {
-    "name": "Recursive Resources"
+    "name": "Recursive Resources",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/recursive-resources",
+    "github_url": "https://github.com/enjarai/recursive-resources"
   },
   "8CsGxc95": {
-    "name": "Shared Resources"
+    "name": "Shared Resources",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/shared-resources",
+    "github_url": "https://github.com/enjarai/shared-resources"
   },
   "bD7YqcA3": {
-    "name": "Show Me Your Skin!"
+    "name": "Show Me Your Skin!",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/show-me-your-skin",
+    "github_url": "https://github.com/enjarai/show-me-your-skin"
   }
 }
