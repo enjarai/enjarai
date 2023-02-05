@@ -2,7 +2,11 @@
   "6FtRfnLg": {
     "name": "Do a Barrel Roll",
     "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/do-a-barrel-roll",
-    "github_url": "https://github.com/enjarai/do-a-barrel-roll"
+    "github_url": "https://github.com/enjarai/do-a-barrel-roll",
+    "additional_images": [
+      "https://github.com/enjarai/do-a-barrel-roll/raw/main/img/ravine.gif",
+      "https://github.com/enjarai/do-a-barrel-roll/raw/main/img/do-a-barrel-roll.gif"
+    ]
   },
   "FGkGRWtl": {
     "name": "Glowsquids Begone!",
