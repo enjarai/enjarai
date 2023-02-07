@@ -6,6 +6,6 @@ They call me enjarai, old name with no meaning really, it just kinda stuck. My m
 
 The best way to contact me is definitely via discord, either join [my server](https://discord.gg/WcYsDDQtyR), or message me directly @enjarai#3333.
 
-For more information and a nice overview of my projects, visit my website: https://enjarai.nl/
+For more information and a nice overview of my projects, visit [my website](https://enjarai.nl/).
 
 <sub>The taste of a demoness ain’t bad</sub>
