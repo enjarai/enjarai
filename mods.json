@@ -42,5 +42,10 @@
     "name": "Persistent Pearls",
     "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/persistent-pearls",
     "github_url": "https://github.com/enjarai/persistent-pearls"
+  },
+  "6NZYNcOV": {
+    "name": "Client Paintings",
+    "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/client-paintings",
+    "github_url": "https://github.com/enjarai/client-paintings"
   }
 }
