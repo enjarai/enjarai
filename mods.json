@@ -46,7 +46,8 @@
   "6NZYNcOV": {
     "name": "Client Paintings",
     "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/client-paintings",
-    "github_url": "https://github.com/enjarai/client-paintings"
+    "github_url": "https://github.com/enjarai/client-paintings",
+    "tool_url": "https://enjarai.dev/#/tools/client-paintings-generator"
   },
   "KCvFkdNn": {
     "name": "Smart Villagers Follow Emeralds",
