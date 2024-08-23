@@ -4,8 +4,6 @@
 
 They call me enjarai, or Rai for short. My main occupation currently is making silly and/or goofy Minecraft mods using only mildly cursed coding standards. You should check out some of my stuff in the pinned repos! Besides that, I also enjoy watching anime and reading a wide variety of highly intellectual literature, including western fantasy and eastern light/web novels.
 
-The best way to contact me is definitely via discord, either join [my server](https://discord.gg/WcYsDDQtyR), or message me directly @enjarai#3333.
+The best way to contact me is definitely via discord, either join [my server](https://discord.gg/WcYsDDQtyR), or message me directly @enjarai.
 
-For more information and a nice overview of my projects, visit [my website](https://enjarai.nl/).
-
-<sub>The taste of a demoness ain’t bad</sub>
+For more information and a nice overview of my projects, visit [my website](https://enjarai.dev/).
