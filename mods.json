@@ -7,7 +7,7 @@
       "https://github.com/enjarai/do-a-barrel-roll/raw/stonecutter/1.21/img/ravine.gif",
       "https://github.com/enjarai/do-a-barrel-roll/raw/stonecutter/1.21/img/do-a-barrel-roll.gif"
     ],
-    "ordinal": 0
+    "ordinal": 1
   },
   "FGkGRWtl": {
     "name": "Glowsquids Begone!",
@@ -38,7 +38,7 @@
     "name": "Show Me Your Skin!",
     "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/show-me-your-skin",
     "github_url": "https://github.com/enjarai/show-me-your-skin",
-    "ordinal": 1
+    "ordinal": 2
   },
   "tGM9405E": {
     "name": "Persistent Pearls",
@@ -60,17 +60,17 @@
     "name": "Mini Tardis",
     "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/mini-tardis",
     "github_url": "https://github.com/enjarai/mini-tardis",
-    "ordinal": 4
+    "ordinal": 5
   },
   "ZdEfcqro": {
     "name": "Trickster",
     "curseforge_url": "https://www.curseforge.com/minecraft/mc-mods/trickster",
     "github_url": "https://github.com/enjarai/trickster",
-    "ordinal": 2
+    "ordinal": 3
   },
   "FA8JwR6I": {
     "name": "Illusionist",
     "github_url": "https://github.com/aurakle/illusionist",
-    "ordinal": 3
+    "ordinal": 4
   }
 }
